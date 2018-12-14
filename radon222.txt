@@ -1,0 +1,8 @@
+86	222	Rn	Radon		a	5.59		2.592e5
+84	218	Po	Polonium	a	6.115		180
+82	214	Pb	Plomb		b-	1.024		1560
+83	214	Bi	Bismuth		b-	3.272		1140
+82	210	Pb	Plomb		b-	0.018		6.9379e8
+83	210	Bi	Bismuth		b-	1.17		4.32e5
+84 	210	Po	Polonium	a	5.298		1.19232e7
+82	206	Pb	Plomb		stable
