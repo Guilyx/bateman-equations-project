@@ -1,4 +1,4 @@
-# The growth and decay of members of a radioactive
+# The growth and decay of members of a radioactive series
 
 C++ Academic project (2017)
 
