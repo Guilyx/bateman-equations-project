@@ -33,7 +33,11 @@ Execute with:
 
 ## Architecture
 
-...UC
+4 Classes.
+* One to solve.
+* One to read.
+* One to ease the solving with a method.
+* One to handle protons, neutrons and half lives generations.
 
 ## Licence
 
